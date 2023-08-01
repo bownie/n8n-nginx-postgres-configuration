@@ -1,0 +1,13 @@
+GENERIC_TIMEZONE=Europe/Amsterdam
+
+N8N_HOST=localhost
+N8N_PROTOCOL=https
+VUE_APP_URL_BASE_API=https://n8n.yourdomain.com
+WEBHOOK_TUNNEL_URL=https://n8n.yourdomain.com
+
+POSTGRES_DB=n8n_database
+POSTGRES_NON_ROOT_USER=n8n_non_root_user
+POSTGRES_NON_ROOT_PASSWORD=your_non_root_password
+POSTGRES_USER=n8n_root_user
+POSTGRES_PASSWORD=your_root_password
+
