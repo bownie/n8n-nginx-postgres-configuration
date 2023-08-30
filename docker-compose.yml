@@ -24,7 +24,7 @@ services:
       retries: 10
 
   n8n:
-    image: n8nio/n8n
+    image: n8nio/n8n:1.4.1
     build:
       context: ./n8n/src
       dockerfile: docker/images/n8n-custom/Dockerfile
